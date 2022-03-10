@@ -23,4 +23,4 @@ I am TEFL-certified multilingual undergraduate student pursuing a double major i
 - Make websites
 - Listen to music
 
-[My Translation Website] (https://hannahwilsontranslation.netlify.app/)
+[My Translation Website](https://hannahwilsontranslation.netlify.app/)
