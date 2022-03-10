@@ -24,4 +24,3 @@ I am TEFL-certified multilingual undergraduate student pursuing a double major i
 - Listen to music
 
 [My Translation Website] (https://hannahwilsontranslation.netlify.app/)
-[My Linkedin] (https://www.linkedin.com/in/hannah-wilson-63a4661b5/)
