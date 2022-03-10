@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Hannah!
 
 <!--
 **hannah22409/hannah22409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me 
+I am TEFL-certified multilingual undergraduate student pursuing a double major in Linguistics and International Studies, and certification in Spanish/English translation. I really like coding and I always have a lot of fun with what I make:)
+
+### What do I do for fun?
+- Learn languages
+- Make websites
+- Listen to music
+
+[My Translation Website] (https://hannahwilsontranslation.netlify.app/)
+[My Linkedin] (https://www.linkedin.com/in/hannah-wilson-63a4661b5/)
